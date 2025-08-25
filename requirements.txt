@@ -1,0 +1,6 @@
+discord.py[voice]
+PyNaCl
+imageio-ffmpeg
+yt-dlp
+flask
+requests
